@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">msibsuitmedia</string>
+    <string name="name">Name</string>
+    <string name="palindrome">Palindrome</string>
+    <string name="check">CHECK</string>
+    <string name="next">NEXT</string>
+    <string name="welcome">Welcome</string>
+    <string name="username">Sabrina</string>
+    <string name="tvSelected">Selected User Name</string>
+    <string name="choose">Choose a User</string>
+    <string name="first_name">Sabrina</string>
+    <string name="last_name">Sabrina</string>
+    <string name="email">sabrinaturnip18@gmail.com</string>
+</resources>
